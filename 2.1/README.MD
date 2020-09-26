@@ -1,6 +1,6 @@
 # Домашние задание по теме "UIView, CALayer, UIWindow. UI-базовые компоненты"
  
-Для выполнения домашнего задания скачайте стартовый проект и ознакомьтесь с макетами по ссылке -> [Проект и макеты](https://github.com/netology-code/iosui-homeworks/blob/master/2.1/Navigation.zip). 
+Для выполнения домашнего задания скачайте стартовый проект и ознакомьтесь с макетами по ссылке -> [Проект и макеты](https://github.com/netology-code/iosui-homeworks/tree/master/2.1). 
 
 ## Макеты:
 - 'Lesson_4_Layout_1_nonedited.png' - основное задание без разметки
