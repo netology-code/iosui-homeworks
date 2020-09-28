@@ -8,7 +8,7 @@
 
 2.1 [Базовые UI компоненты](/2.1/)
 
-2.2 Верстка экранов для iOS. Auto Layout
+2.2 [Верстка экранов для iOS. Auto Layout](/2.2/)
 
 2.3 UITableView, UIScrollView, datasource и delegate
 
