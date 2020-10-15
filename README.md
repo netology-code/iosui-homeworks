@@ -10,7 +10,7 @@
 
 2.2 [Верстка экранов для iOS. Auto Layout](/2.2)
 
-2.3 UITableView, UIScrollView, datasource и delegate
+2.3 [UITableView, UIScrollView, datasource и delegate](https://github.com/netology-code/iosui-homeworks/blob/master/2.3/2.3.part_1.md)
 
 2.5 [CollectionView](/2.5)
 
