@@ -12,6 +12,7 @@
 - Высоту задать равной 220.
 
 Удалить программное создание и изменение размера `profileHeaderView`.
+
 2. Привязать к классу ProfileHeaderView, добавить всё subviews в storyboard и привязать с помощью IBOutlet:
 - avatarImageView
 - fullNameLabel
