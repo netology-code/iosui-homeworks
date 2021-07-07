@@ -1,6 +1,6 @@
-# Домашнее задание к занятию "1.1 Дизайн и пользовательский интерфейс"
+# 1.1 Дизайн и пользовательский интерфейс
 
-На занятии 1.1 вы узнали, что такое UX- и UI-дизайн и познакомились с основными принципами Apple Human Interface Guidelines. 
+На занятии вы узнали, что такое UX- и UI-дизайн и познакомились с основными принципами Apple Human Interface Guidelines. 
 
 В качестве домашнего задания мы просим вас изучить:
 1. [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/) самостоятельно. Отдельное внимание обратите на:
