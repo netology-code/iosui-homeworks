@@ -13,7 +13,7 @@
 
 ### Основное задание 
 1. Создайте в проекте группу с именем `Profile`.
-2. Добавьте в группу `Profile` новый файл ]ProfileHeaderView.swift], в этом файле создайте одноименный класс-наследник `UIView`.
+2. Добавьте в группу `Profile` новый файл `ProfileHeaderView.swift`, в этом файле создайте одноименный класс-наследник `UIView`.
 3. Добавьте в группу `Profile` новый файл `ProfileViewController.swift`, в этом файле создайте одноименный класс-наследник `UIViewController`.
 4. Установите `.lightGray` в качестве `backgroundColor` в коде для `ProfileViewController`, запустите проект и убедитесь, что при переходе на таб `Profile` цвет бэкграунда изменился  на серый.
 5. Создайте экземпляр класса `ProfileHeaderView` в классе `ProfileViewController`, добавьте его в качестве subview и в методе `viewWillLayoutSubviews()` задайте ему `frame`, равный `frame` корневого `view`.
