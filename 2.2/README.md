@@ -6,21 +6,19 @@
 
 ### Основное задание
 
-1. На экране `ProfileViewController` создайте `UIView`, задайте положение и размер с помощью Auto Layout:
-- Слева и справа нулевые отступы;
-- Сверху привяжите к Safe Area;
-- Высоту задайте равной 220.
-
-Удалите программное создание и изменение размера `profileHeaderView`.
-
-2. Привяжите к классу `ProfileHeaderView`, добавить всё subviews в storyboard и привязать с помощью `IBOutlet`:
+1. Создайте класс `ProfileHeaderView`, добавьте subviews, задайте положение и размер с помощью Auto Layout:
 - `avatarImageView`;
 - `fullNameLabel`;
 - `statusLabel`;
 - `statusTextField`;
 - `setStatusButton`.
 
-Удалить код в методе `layoutSubviews()` и сделать всю верстку с помощью Auto Layout.
+1. На экране `ProfileViewController` добавьте `ProfileHeaderView`, задайте положение и размер с помощью Auto Layout:
+- Слева и справа нулевые отступы;
+- Сверху привяжите к Safe Area;
+- Высоту задайте равной 220.
+
+Удалить код в методе `layoutSubviews()`.
 
 3. Добавьте новую `UIButton`, изменить `title` и задайте следующие правила отображения с помощью кода:
 - Слева и справа нулевые отступы;
