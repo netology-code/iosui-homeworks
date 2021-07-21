@@ -27,5 +27,3 @@
 7. Создайте структуру `Post` со свойством `title: String`. Создайте объект типа `Post` в `FeedViewController` и передайте его в `PostViewController`. В классе `PostViewController` выставьте `title` полученного поста в качестве заголовка контроллера.
 8. На `PostViewController` добавьте `Bar Button Item` в навигейшн бар. При нажатии на него должен открываться новый контроллер `InfoViewController`. Контроллер должен показаться модально.
 9. На `InfoViewController` создайте кнопку. При нажатии на неё должен показаться `UIAlertController` с заданным `title`, `message` и двумя `UIAlertAction`. При нажатии на `UIAlertAction` в консоль должно выводиться сообщение.
-
-Заархивируйте готовую работу в .zip-файл и прикрепите в личном кабинете.
