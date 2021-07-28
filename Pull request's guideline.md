@@ -20,7 +20,7 @@
 1. Ваши действия при начале работы с гитом для сдачи домашних заданий:
 * Xcode умеет создавать локальный репозиторий при создании проекта сразу с веткой `main` и Initial commit. Создайте новый проект в Xcode, используйте шаблон App, назовите проект Navigation и отметьте галочкой "Create Git repository on my Mac"
 * На GitHub создайте репозиторий и назовите его `ios-homeworks`. Не устанавливаете галочки напротив пунктов "Создать README", "Добавить .gitignore" и т.д.
-* Добавьте в папку с проектом файл .gitignore (точка в названии обязательна) c кодом из репозитория по [этой ссылке](https://github.com/github/gitignore/blob/master/Swift.gitignore). [Видео-подсказка про создание .gitignore](https://github.com/netology-code/iosui-homeworks/video/gitignore_settings.mp4)
+* Добавьте в папку с проектом файл .gitignore (точка в названии обязательна) c кодом из репозитория по [этой ссылке](https://github.com/github/gitignore/blob/master/Swift.gitignore). [Видео-подсказка про создание .gitignore](https://github.com/netology-code/iosui-homeworks/tree/master/video/gitignore_settings.mp4)
 * Добавьте репозиторий с GitHub к вашему локальному репозиторию, созданному Xcode, в качестве remote. Сделайте push ветки `main`.
 Примечание: все следующие ветки будут создаваться от этой ветки.
 2. От ветки `main` создайте ветку с названием модуля, например `develop-iosui`. И также как раньше делайте push. Это будет основная ветка для всех зачтенных домашний заданий в модуле.
