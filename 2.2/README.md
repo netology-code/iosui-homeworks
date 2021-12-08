@@ -23,7 +23,7 @@
 - `statusTextField`;
 - `setStatusButton`.
 
-1. На экране `ProfileViewController` добавьте `ProfileHeaderView`, задайте положение и размер с помощью Auto Layout:
+2. На экране `ProfileViewController` добавьте `ProfileHeaderView`, задайте положение и размер с помощью Auto Layout:
 - Слева и справа нулевые отступы;
 - Сверху привяжите к Safe Area;
 - Высоту задайте равной 220.
