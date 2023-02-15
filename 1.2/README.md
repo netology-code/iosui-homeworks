@@ -38,4 +38,5 @@
 9. Установите `ProfileViewController` в качестве управляющего класса для `Profile.storyboard` в InterfaceBuilder.
 10. Установите `ProfileViewController` в качестве `Initial View Controller`.
 11. Установите `Profile.storyboard` в качестве `Main interface` в настройках проекта. 
+12. В коде ProfileViewController создайте экземпляр `ProfileView`, используя метод `Bundle.main.loadNibNamed`, как в лекции. Настройте отображение загруженного view, используя свойство `frame` и `Autoresizing Mask`
 12. Запустите ваш проект (Cmd+R). Проверьте, что приложение в эмуляторе соответствует макетам. Попробуйте запустить в эмуляторе iPhone SE и iPhone 8 plus. Поверните экран. Все элементы должны одинаково выглядеть на экранах разных размеров (растягиваться или сужаться в зависимости от размера экрана).
