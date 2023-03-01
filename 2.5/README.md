@@ -1,4 +1,4 @@
-# 2.5 CollectionView
+# 2.5. CollectionView
 
 ## Правила выполнения домашней работы
 
