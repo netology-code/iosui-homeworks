@@ -21,7 +21,7 @@
 
 1. Создайте новый проект с названием `Navigation`, используя шаблон `Single View App`.
 2. Удалите из проекта `Main.storyboard`, который создался по умолчанию. Не забудьте изменить конфигурацию в `Info.plist`.
-3. В `AppDelegate.swift` добавьте `UITabBarController`. Добавьте в него два `UINavigationController`. Первый будет показывать ленту пользователя, а второй — профиль.
+3. В `SceneDelegate.swift` добавьте `UITabBarController`. Добавьте в него два `UINavigationController`. Первый будет показывать ленту пользователя, а второй — профиль.
 4. Измените `Tab Bar Item` у добавленных контроллеров, добавьте заголовок и картинку. Картинки можно добавить в `Assets.xcassets` или использовать SF Symbols.
 5. Создайте `FeedViewController` и `ProfileViewController` и добавьте их как root view controller у навигационных контроллеров.
 6. Добавьте `PostViewController` для показа выбранного поста. Поменяйте заголовок у контроллера и цвет главной view. Добавьте кнопку на `FeedViewController` и сделайте переход на экран поста. Контроллер должен показаться в стеке `UINavigationController`.
